@@ -1,0 +1,4 @@
+
+# START CRON JOB
+*/15 * * * * python /app/Log.py > /proc/1/fd/1 2>/proc/1/fd/2
+# END CRON JOB
