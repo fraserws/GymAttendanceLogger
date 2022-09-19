@@ -39,8 +39,7 @@ This is a simple logger for my gym using the python requests library and mongodb
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-# docker-python-cronjob
-Run python script as a cron job using Docker
+
 ## Build Docker
 ```
 docker build -t log-cron .
