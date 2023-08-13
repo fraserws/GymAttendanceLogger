@@ -14,12 +14,19 @@
 
 
 <!-- ABOUT THE PROJECT -->
+
+
 ## About The Project
 
 ![Alt text](https://github.com/fraserws/PureGymLogger/blob/master/images/Figure_1.png?raw=true)
 \
 This is a simple logger for my gym using the python requests library and mongodb for storage + matplotlib for visualization.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## Demo 
+[here](https://pg-log.vercel.app)
+
 
 
 
